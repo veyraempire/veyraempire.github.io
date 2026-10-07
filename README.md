@@ -1,4 +1,3 @@
 # veyraempire.github.io
 
-Redirects to the VEYRA EMPIRE script archive at
-<https://veyraempire.com/>.
+Redirects to VEYRA EMPIRE at <https://veyraempire.com/>.
